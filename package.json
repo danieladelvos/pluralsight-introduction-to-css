@@ -1,0 +1,20 @@
+{
+  "name": "pluralsight-introduction-to-css",
+  "version": "0.1.0",
+  "description": "CSS",
+  "homepage": "https://github.com/danieladelvos/pluralsight-introduction-to-css",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -p 4001 -a localhost -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieladelvos/pluralsight-introduction-to-css.git"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
