@@ -11,14 +11,24 @@ h1, h2 {
   background-color: #5f9ea0;
 }
 
-div {
+div p {
   background-color: #ff0000;
 }
 
+div > p {
+  background-color: #ff8c00;
+}
+
+/* do not use - only in js
 #content {
   background-color: #008050;
 }
 
 .quotation {
   background-color: #6495ed;
+} */
+
+/* attribute selector */
+img[alt=spacer] {
+  padding: 50px;
 }
