@@ -4,4 +4,21 @@ body {
 
 p {
   font-size: larger;
+  background-color: #00ff00;
+}
+
+h1, h2 {
+  background-color: #5f9ea0;
+}
+
+div {
+  background-color: #ff0000;
+}
+
+#content {
+  background-color: #008050;
+}
+
+.quotation {
+  background-color: #6495ed;
 }
