@@ -1,5 +1,8 @@
-@import url("introduction-to-css.css");
-
+/*@import url("introduction-to-css.css");*/
+div p {
+  background-color: #5f9ea0;
+}
 p {
-  background-color: #ff8c00
+  background-color: #ff8c00;
+  font-size: 2em;
 }
