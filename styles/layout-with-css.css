@@ -1,0 +1,66 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#authorinfo {
+  background-color: #ffD700;
+  margin-left: 420px;
+  width: 300px;
+}
+
+#content {
+  position: absolute;
+  top: 105px;
+  left: 5px;
+  background-color: #009000;
+  margin-left: 10px;
+  width: 400px;
+}
+
+#header {
+  height: 100px;
+}
+
+.buttons {
+  margin: 100px 0 100px 0;
+}
+
+.buttons input {
+  width: 120px;
+}
+
+.buttons input:last-child {
+  position: relative;
+  bottom: 20px;
+  right: 25px;
+}
+
+.buttons input:nth-child(2) {
+  position: fixed;
+  top: 20px;
+  left: 200px;
+}
+
+.buttons input:nth-child(1) {
+  position: absolute;
+  top: 20px;
+  left: -10px;
+}
+
+.temp {
+  position: relative;
+  top: 40px;
+  left: 20px;
+}
+
+.figure1 {
+  float: left;
+  margin-right: 5px;
+  width: 400px;
+  height: 400px;
+}
+
+.clear {
+  clear: both;
+}
